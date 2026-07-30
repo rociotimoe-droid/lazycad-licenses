@@ -1,0 +1,15 @@
+; LazyCAD active license codes
+; ---------------------------------------------------------------------------
+; One license code per line. Blank lines and lines starting with ; or # are
+; ignored, so you can leave notes in here if you want.
+;
+; TO ADD A MEMBER  -> add a new line with their code, save, commit/push.
+; TO REMOVE A MEMBER (they canceled) -> delete their line, save, commit/push.
+;
+; That's it. The next time their copy of LazyCAD checks in (every time they
+; open AutoCAD, as long as they're online), it re-downloads this file. If
+; their code isn't here anymore, they're locked out. If they're offline when
+; it happens, they stay unlocked until the grace period runs out, then lock.
+; ---------------------------------------------------------------------------
+
+LAZY-DEMO-0001
