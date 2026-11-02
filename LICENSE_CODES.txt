@@ -12,6 +12,19 @@
 ; it happens, they stay unlocked until the grace period runs out, then lock.
 ; ---------------------------------------------------------------------------
 
-LAZY-DEMO-0001
-LAZYCAD-NICO
-LAZY-TEST-MEMBER1
+LAZY-IRVI-5835
+LAZY-THLA-8179
+LAZY-95IT-6838
+LAZY-ANDR-7815
+LAZY-ANAL-0223
+LAZY-YADI-4766
+LAZY-KALD-2079
+LAZY-STEV-0683
+LAZY-MRCR-1722
+LAZY-HCBE-8895
+LAZY-BJRB-7567
+LAZY-PEAN-2262
+LAZY-KELL-4891
+LAZY-MART-4173
+LAZY-SGRE-8093
+LAZY-RACH-3063
